@@ -1,0 +1,30 @@
+#searchbtn:hover{
+    background-color: green
+}
+    
+#delete:hover{
+    background-color: red
+
+}
+
+.uvi-good {
+    background-color: green
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+.uvi-mod {
+    background-color: orange
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+.uvi-warn {
+    background-color: red
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+   }
